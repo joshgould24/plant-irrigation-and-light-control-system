@@ -1,0 +1,4 @@
+# please dont commit the following!
+arduino_secrets.h
+mi6_launch_codes.h
+.vscode/c_cpp_properties.json
